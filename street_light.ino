@@ -4,7 +4,7 @@ int led3 = 11;
 int led4 = 12;
 int led5 = 13;
 
-int ir1 = 2;
+int ir1 = 3;
 int ir2 = 4;
 int ir3 = 5;
 int ir4 = 6;
